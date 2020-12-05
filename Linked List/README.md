@@ -1,8 +1,8 @@
 # Linked List all Operations
 
-Program to perform all Operations on a Linked List
-Developed by: Ghanshyam Prajapati.
-Date: 01/12/2020.
+Program to perform all Operations on a Linked List<br/>
+Developed by: Ghanshyam Prajapati.<br/>
+Date: 01/12/2020.<br/>
 
 # OutPut:<br/>
 
