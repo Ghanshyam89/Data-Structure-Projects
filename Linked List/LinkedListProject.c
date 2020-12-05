@@ -1,4 +1,4 @@
-// Lab-17: WAP to implement a Linked List
+// Lab-17: WAP to perform all Operations on a Linked List
 // Developed by: Ghanshyam Prajapati.
 // Date: 01/12/2020.
 
