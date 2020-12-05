@@ -1,5 +1,9 @@
 # Linked List all Operations
 
+Lab-17: WAP to perform all Operations on a Linked List
+Developed by: Ghanshyam Prajapati.
+Date: 01/12/2020.
+
 # OutPut:<br/>
 
 ![image](Ll1.png) <br/>
