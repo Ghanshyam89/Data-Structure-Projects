@@ -5,20 +5,20 @@ Developed by: Ghanshyam Prajapati.<br/>
 Date: 06/12/2020.<br/>
 
 # OutPut:<br/>
-![image](Screenshot (143).png) <br/>
-![image](Screenshot (144).png) <br/>
-![image](Screenshot (145).png) <br/>
-![image](Screenshot (146).png) <br/>
-![image](Screenshot (147).png) <br/>
-![image](Screenshot (148).png) <br/>
-![image](Screenshot (149).png) <br/>
-![image](Screenshot (150).png) <br/>
-![image](Screenshot (151).png) <br/>
-![image](Screenshot (152).png) <br/>
-![image](Screenshot (153).png) <br/>
-![image](Screenshot (154).png) <br/>
-![image](Screenshot (155).png) <br/>
-![image](Screenshot (156).png) <br/>
-![image](Screenshot (157).png) <br/>
-![image](Screenshot (158).png) <br/>
-![image](Screenshot (159).png) <br/>
+![image](Output/Screenshot1.png) <br/>
+![image](Output/Screenshot2.png) <br/>
+![image](Output/Screenshot3.png) <br/>
+![image](Output/Screenshot4.png) <br/>
+![image](Output/Screenshot5.png) <br/>
+![image](Output/Screenshot6.png) <br/>
+![image](Output/Screenshot7.png) <br/>
+![image](Output/Screenshot8.png) <br/>
+![image](Output/Screenshot9.png) <br/>
+![image](Output/Screenshot10.png) <br/>
+![image](Output/Screenshot11.png) <br/>
+![image](Output/Screenshot12.png) <br/>
+![image](Output/Screenshot13.png) <br/>
+![image](Output/Screenshot14.png) <br/>
+![image](Output/Screenshot15.png) <br/>
+![image](Output/Screenshot16.png) <br/>
+![image](Output/Screenshot17.png) <br/>
